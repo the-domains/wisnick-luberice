@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PHOTOGRAPHY]]></title>
         <description><![CDATA[PHOTOGRAPHY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wisnick-luberice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 21:59:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 22:07:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wisnick-luberice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>CREATIVITY</p>]]></description>
-            <link>undefinedcreativity/index.html</link>
+            <link>https://thegrid.ai/wisnick-luberice/creativity/index.html</link>
             <guid isPermaLink="false">55cbf606-88d0-48be-918c-780ba6731939</guid>
-            <pubDate>Mon, 23 May 2016 21:59:40 GMT</pubDate>
+            <pubDate>Mon, 23 May 2016 22:03:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
