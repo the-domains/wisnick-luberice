@@ -1,7 +1,7 @@
-name: wisnick Luberice
+name: WISNICK LUBERICE
 favicon: null
-layout_spectrum: 0.7147038294933736
-typography_spectrum: 0.9965664627961814
+layout_spectrum: 0.73544
+typography_spectrum: 0.7523
 title: PHOTOGRAPHY
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.020404241979122162
-  lightness: 0.104230574099347
+  brandStrength: 0
+  lightness: 0.0625
   saturation: 0.0476695594843477
   rhythmicContrast: 0.49095925968140364
 purpose: []
