@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: CREATIVITY
-datePublished: '2016-05-23T21:59:40.124Z'
-dateModified: '2016-05-23T21:58:05.609Z'
+datePublished: '2016-05-23T22:03:29.430Z'
+dateModified: '2016-05-23T22:03:11.912Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-23-creativity.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-23-creativity.md
 url: creativity/index.html
 _type: Article
 
